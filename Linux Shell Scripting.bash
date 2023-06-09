@@ -1,6 +1,7 @@
+#PRINTING HELLO WORLD
 echo "Hello World";
 
-#! prime number
+#CHECKING WHETHER THE GIVEN NUMBER IS PRIME OR NOT
 #!/bin/bash
 echo -e "Enter Number : \c"
 read n
@@ -15,8 +16,9 @@ do
 done
 echo "$n is a prime number."
 
+#REVERSING THE GIVEN NUMBER
+echo "Operating System AIDE-JainUniversity Global Campus";
 
-#! reverse of a number
 #!/bin/bash
 echo "Enter a Number:"
 read a
